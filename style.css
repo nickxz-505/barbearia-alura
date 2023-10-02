@@ -9,3 +9,8 @@ body {
     p {
     text-align: center;
     }
+
+    #misão{
+        color: darkred;
+        font-size: 18px;
+    }
